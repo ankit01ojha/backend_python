@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="Google App Engine SDK" type="python">
+    <CLASSES>
+      <root url="file://$USER_HOME$" />
+      <root url="file:///lib/java-1.5.0" />
+      <root url="file:///lib/java-1.8.0" />
+      <root url="file:///lib/locale" />
+      <root url="file:///lib/python2.7" />
+      <root url="file:///lib/sse2" />
+      <root url="file:///lib/modprobe.d" />
+      <root url="file:///lib/jvm-private" />
+      <root url="file:///lib/java-ext" />
+      <root url="file:///lib/sysusers.d" />
+      <root url="file:///lib/polkit-1" />
+      <root url="file:///lib/modules" />
+      <root url="file:///lib/tmpfiles.d" />
+      <root url="file:///lib/environment.d" />
+      <root url="file:///lib/firmware" />
+      <root url="file:///lib/java-1.6.0" />
+      <root url="file:///lib/jvm" />
+      <root url="file:///lib/crda" />
+      <root url="file:///lib/ostree" />
+      <root url="file:///lib/jvm-exports" />
+      <root url="file:///lib/sysctl.d" />
+      <root url="file:///lib/kdump" />
+      <root url="file:///lib/fontconfig" />
+      <root url="file:///lib/java-1.7.0" />
+      <root url="file:///lib/sendmail" />
+      <root url="file:///lib/java" />
+      <root url="file:///lib/os.release.d" />
+      <root url="file:///lib/issue" />
+      <root url="file:///lib/grub" />
+      <root url="file:///lib/firewalld" />
+      <root url="file:///lib/os-release" />
+      <root url="file:///lib/cpp" />
+      <root url="file:///lib/systemd" />
+      <root url="file:///lib/kde4" />
+      <root url="file:///lib/variant" />
+      <root url="file:///lib/games" />
+      <root url="file:///lib/cups" />
+      <root url="file:///lib/gems" />
+      <root url="file:///lib/udev" />
+      <root url="file:///lib/issue.net" />
+      <root url="file:///lib/kbd" />
+      <root url="file:///lib/mozilla" />
+      <root url="file:///lib/kernel" />
+      <root url="file:///lib/udisks2" />
+      <root url="file:///lib/python3.6" />
+      <root url="file:///lib/debug" />
+      <root url="file:///lib/alsa" />
+      <root url="file:///lib/lsb" />
+      <root url="file:///lib/eclipse" />
+      <root url="file:///lib/binfmt.d" />
+      <root url="file:///lib/gcc" />
+      <root url="file:///lib/modules-load.d" />
+      <root url="file:///lib/abrt-java-connector" />
+      <root url="file:///lib/jvm-commmon" />
+      <root url="file:///lib/NetworkManager" />
+      <root url="file:///lib/rpm" />
+      <root url="file:///lib/dracut" />
+      <root url="file:///lib/kde3" />
+      <root url="file:///lib/realmd" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
